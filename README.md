@@ -74,7 +74,7 @@ cd Travel-Agency-Application
    - Click **"Choose File"**
    - Select: `sql/travel_agency__1_.sql` from your project folder
    - Click **"Import"** button
-   - Wait for success message ✅
+   - Wait for success message 
 
 #### Step 3: Configure Database Connection
 
@@ -182,4 +182,4 @@ This project is open source and available for educational purposes.
 - Email notifications for bookings
 - integration of AI (like chatbots)
 
-**Happy Travels! **
+Happy Travels! 
